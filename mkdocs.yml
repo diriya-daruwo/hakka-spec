@@ -1,0 +1,8 @@
+site_name: "hakka-spec"
+site_description: "hakka-spec"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "hakka-spec"
+  description: "hakka-spec"
+  annotations:
+    github.com/project-slug: diriya-daruwo/hakka-spec
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: spec
+  lifecycle: experimental
+  owner: "kingfisher"
